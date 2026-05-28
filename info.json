@@ -1,0 +1,10 @@
+{
+  "name": "letter-app",
+  "hidden": true,
+  "title": "Letter App",
+  "subtitle": "Build your perfect pizza",
+  "version": "1.0.0",
+  "description": ".",
+  "author": "",
+  "icon": "./icon.png"
+}
